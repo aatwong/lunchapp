@@ -1,0 +1,8 @@
+{
+  "db_host": "localhost",
+  "db_user": "example",
+  "db_password": "password",
+  "db_name": "lunch_db",
+  "db_dialect": "postgres",
+  "db_port": 5432
+}
